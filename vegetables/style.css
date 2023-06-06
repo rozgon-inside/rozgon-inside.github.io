@@ -1,0 +1,18 @@
+.header{
+    padding: 30px;
+    background-color: #B5A7B6 ;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+body{
+    margin: 0;
+
+    font-family: 'Lobster', cursive;
+}
+.bg{
+    background-color:#B5A7B6;
+    padding: 0px;
+
+}
